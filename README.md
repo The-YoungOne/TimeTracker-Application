@@ -6,21 +6,25 @@ Lucian Sandile Young
 Student Number: ST10039287
 Email: luyoung247@gmail.com
 ALT email: st10039287@vcconnect.edu.za
+
 ----------------------------------------------------------------------------------------------------
 INTRODUCTION:
 
 This android studio app is a time tracker application. A time tracker application designed to help its users track the time spent on various tasks, projects, or activities.
 Thus, this application is intended to aid user productivity.
+
 ----------------------------------------------------------------------------------------------------
 PURPOSE:
 
 The purpose of this particular time tracker application is to help it's users track the progress they make for their projects. These projects can vary depending on the users
 needs, therefore making the app flexable for a wide variety of users.
+
 ----------------------------------------------------------------------------------------------------
 BUILT WITH:
 
 Development platform: Android Studio Giraffe // 2022.3.1
 Cloud-hosted database: Firebase Database (Using Firebase Authentication & Realtime Database)
+
 ----------------------------------------------------------------------------------------------------
 SAMPLE USER DATA:
 
@@ -35,6 +39,7 @@ Email - test@test.com
 Password - test1234
 
 ...or use your own personal or self-created information.
+
 ----------------------------------------------------------------------------------------------------
 PREREQUISITES:
 
@@ -46,6 +51,7 @@ Include in the source code and in a separate folder is the application APK. This
 
 Device  - Any android device with API 27 or higher.
 	- Application was developed on a Google Pixel 5 device, thus this device or higher is best to operate on.
+ 
 ----------------------------------------------------------------------------------------------------
 INSTALLATION:
 
@@ -89,6 +95,7 @@ After installing the application through the three options above the application
 If the application has been downloaded on a device, then it can be run by simply selecting the applciation icon on the menu of the device.
 
 Once running, the application will require the user to either sign up or sign in. All data is connected directly to a live Firebase Database.
+
 ----------------------------------------------------------------------------------------------------
 FUNCTIONAL REQUIREMENTS:
 
