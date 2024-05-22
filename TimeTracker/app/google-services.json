@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772380032424",
+    "project_id": "time-tacker-3225b",
+    "storage_bucket": "time-tacker-3225b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772380032424:android:31703212428cbff44bb19d",
+        "android_client_info": {
+          "package_name": "com.example.timetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuQUX7I3m2v-BaArGWDG-M6A-G_5M-LA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
